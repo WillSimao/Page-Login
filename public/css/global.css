@@ -14,9 +14,19 @@
 :root {
     /* COLOR */
     --color-blue1: #1A202C;
+    --blue-hover1: #0f131a; 
+    --color-blue2: #2B6CB0;
+    --blue-hover2: #225388; 
+
     --color-white1: #FFFFFF;
     --color-white2: #F7FAFC;
+
     --color-grey1: #E8E8E8;
+
+    --color-black1: #000000;
+
+    --color-green1: #04C35C;
+    --green-hover1: #10a355;
 
     /* FONT */
     --font-lato: 'Lato';
